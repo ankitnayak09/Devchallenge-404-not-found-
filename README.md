@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with) - HTML and CSS(Flexbox)
+  - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -36,28 +36,22 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](Desktop-View.jpg)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
+I am a beginner in the field of web dev. So according to me the challenges nor too hard or too easy. It means with every project that you built. I would come over challenges and with them being solved i was learning a new thing.  
+I got hands on flexbox also on responsive design using media query. 
+I am looking forward to complete all of the challenges. They are fun to do.
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://www.w3schools.com/html/default.asp)
+- [CSS](https://www.w3schools.com/css/default.asp)
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+
+It was a page which would be display whenever a page isn't available. It is now important to have your own designed page rather than the default 404 page.
 
 
 ## Acknowledgements
@@ -65,7 +59,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
