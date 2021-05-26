@@ -10,11 +10,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://ankitnayak09.github.io/Devchallenge-404-not-found-/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ankitnayak09/Devchallenge-404-not-found-">
       Solution
     </a>
     <span> | </span>
@@ -29,7 +29,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+  - [Built With](#built-with) - HTML and CSS(Flexbox)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -72,6 +72,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@ankitnayak09](https://github.com/ankitnayak09)
+- LinkedIn [@ankitnayak09](https://linkedin.com/ankitnayak09)
